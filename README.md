@@ -1,5 +1,5 @@
 # samasya
-Online quiz game.It has same features as of the locco quiz  app.Implemented using flask.
+Online quiz game.It has same features as of the locco quiz  app.Implemented using flask framework.
 
 #for running it
 
