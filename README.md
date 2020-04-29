@@ -1,11 +1,11 @@
 # samasya
 Online quiz game.It has same features as of the locco quiz  app.Implemented using flask framework.
 
-### Screenshot
+## Screenshot
 
 <img src="s1.png" width=1000px>
 
-### Installation
+## Installation
 
 * install flask
 * cd samasya
